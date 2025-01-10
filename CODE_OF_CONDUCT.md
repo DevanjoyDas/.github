@@ -17,7 +17,7 @@ We subscribe to [the OpenJS Foundation Code of Conduct](https://github.com/openj
 
 While the JSON Schema project is not formally part of the IETF, historically the project was initially published and updated as "personal drafts" through the IETF process. The project members have found the approach and assumptions defined as Guidelines for Conduct to be well informed and a good foundation of behaviour and expectations.
 
-The IETF defined BCP 54 (Best Current Practice), also assinged RFC 7154.
+The IETF defined BCP 54 (Best Current Practice), also assigned RFC 7154.
 Some extracts are provided which are found to be key principles.
 Please see [BCP 54/RFC 7154 document](https://www.rfc-editor.org/rfc/rfc7154.html) for full details.
 
